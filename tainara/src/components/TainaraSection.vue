@@ -1,5 +1,9 @@
 <template>
-  <section></section>
+  <section>
+    <div>
+      <p>dsadsa</p>
+    </div>
+  </section>
 </template>
 
 <script>
