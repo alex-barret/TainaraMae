@@ -1,14 +1,9 @@
 <template>
   <header>
     <div class="container">
-      <nav class="navbar navbar-expand">
-        <a href="#" class="link navbar-brand mr-auto">Tainara Mãe de Santo</a>
-        <div class="links mr-2">
-          <a href="#" class="btn mr-5">Home </a>
-          <a href="#" class="btn mr-5">Trabalho </a>
-          <a href="#" class="btn mr-5"> Sobre</a>
-        </div>
-      </nav>
+      <div class="navbar navbar-expand justify-content-center">
+        <a href="#" class="link navbar-brand">Tainara Mãe de Santo</a>
+      </div>
     </div>
   </header>
 </template>
